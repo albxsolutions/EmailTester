@@ -15,10 +15,11 @@ namespace EmailTester
         static void Main()
         {
 
+            //test
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-
+            
         }
     }
 }
